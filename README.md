@@ -19,9 +19,8 @@
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" src="https://img.icons8.com/color/50/000000/npm.png"/><br/>
 
-<hr>
-
-  ![Kendrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendrick-keits&theme=cobalt&show_icons=true)
+<h2>My Stats</h2>
+![Kendrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendrick-keits&theme=cobalt&show_icons=true)
 
 <!--
 **kendrick-keits/kendrick-keits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
