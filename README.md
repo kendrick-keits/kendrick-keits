@@ -17,7 +17,7 @@
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <h3>Tools</h3>
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" src="https://img.icons8.com/color/50/000000/npm.png"/><br/>
+<img src="https://img.icons8.com/color/50/000000/npm.png"/><br/>
 
 <h2>My Stats</h2>
 
