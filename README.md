@@ -1,7 +1,12 @@
- <h1> Hi 👋</h1>
- <p>I'm Kendrick, a <b>Software Engineer</b> from Colorado Springs :mountain: </p>
-
+<h1> Hi 👋</h1>
+<p>I'm Kendrick, a <b>Software Engineer</b> from Colorado Springs :mountain: </p>
 <img align="right" width="350" height="350" src="https://www.hugp.com/research/assets/img/gif/pc.gif">
+<ul>
+ <li>💻 My projects are available {here}</li>
+ <li>📄 My my Resume can be found {here}</li>
+ <li>📫 I can be reached {here}</li>
+ <li>⚡ Fun fact: HUGE Denver Nuggets Fan</li>
+</ul>
 
 
 
