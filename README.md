@@ -1,6 +1,8 @@
- <h1 align="center"> Hi 👋, I'm Kendrick </h1>
+ <h1> Hi 👋</h1>
+ <h2>I'm Kendrick, a Software Engineer from Colorado Springs :mountain: </h2>
 
 <img align="right" width="350" height="350" src="https://www.hugp.com/research/assets/img/gif/pc.gif">
+
 
 
 <!--
