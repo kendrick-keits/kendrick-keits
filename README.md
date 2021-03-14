@@ -1,6 +1,6 @@
  <h1 align="center"> Hi 👋, I'm Kendrick </h1>
 
-<img align="right" width="250" height="250" src="https://www.hugp.com/research/assets/img/gif/pc.gif">
+<img align="right" width="350" height="350" src="https://www.hugp.com/research/assets/img/gif/pc.gif">
 
 
 <!--
