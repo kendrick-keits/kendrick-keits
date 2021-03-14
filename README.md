@@ -18,7 +18,6 @@
 <h3>Tools</h3>
 <img align="left" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/50/000000/npm.png"/><br/>
-
 <h2>My Stats</h2>
 
 ![Kendrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendrick-keits&theme=cobalt&show_icons=true)
