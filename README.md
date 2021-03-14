@@ -7,6 +7,9 @@
  <li>📫 I can be reached {here}</li>
  <li>⚡ Fun fact: HUGE Denver Nuggets Fan</li>
 </ul>
+<h2>My Stack</h2>
+<h3>Frontend</h3>
+<h3>Backend</h3>
 
 
 
