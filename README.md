@@ -1,4 +1,4 @@
- <h1 style="text-align: center"> Hi 👋, I'm Kendrick </h1>
+ <h1 style="text-align:center"> Hi 👋, I'm Kendrick </h1>
 ___
 
 <h2>
