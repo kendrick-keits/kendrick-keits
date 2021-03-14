@@ -21,7 +21,7 @@
 
 
 
-![Kendrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendrick-keits&theme=cobalt&show_icons=true)
+<span>![Kendrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendrick-keits&theme=cobalt&show_icons=true)</span>
 
 <!--
 **kendrick-keits/kendrick-keits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
