@@ -11,7 +11,7 @@
 <h3>Frontend</h3>
 <h3>Backend</h3>
 <h3>Tools</h3>
-<img src="https://img.icons8.com/color/96/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
 
 
 
