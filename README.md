@@ -11,10 +11,13 @@
 <h3>Frontend</h3>
 <img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <h3>Backend</h3>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <h3>Tools</h3>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/50/000000/npm.png"/>
 
 
 
