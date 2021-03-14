@@ -1,6 +1,7 @@
- <h1 style="text-align: center;"> Hi 👋, I'm Kendrick </h1>
+ <h1 style="text-align: center"> Hi 👋, I'm Kendrick </h1>
 ___
 
+<h2>
 <!--
 **kendrick-keits/kendrick-keits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
