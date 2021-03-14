@@ -10,6 +10,8 @@
 <h2>My Stack</h2>
 <h3>Frontend</h3>
 <h3>Backend</h3>
+<h3>Tools</h3>
+<img src="https://img.icons8.com/color/96/000000/git.png"/>
 
 
 
