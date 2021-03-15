@@ -2,7 +2,7 @@
 <p>I'm Kendrick, a <b>Software Engineer</b> from Colorado Springs :mountain: </p>
 <img align="right" width="350" height="350" src="https://www.hugp.com/research/assets/img/gif/pc.gif">
 <ul>
- <li>💻 My projects are available  <a href="https://kendrick4thworld.webflow.io">here</a></li>
+ <li>💻 My projects are available  <a href="https://kendrick4theworld.webflow.io">here</a></li>
  <li>📄 My my resume can be found <a href="https://media-exp1.licdn.com/dms/document/C4E2DAQFu54J095FJlQ/profile-treasury-document-pdf-analyzed/0/1615780076440?e=1615867200&v=beta&t=IjoqG2qmaUoqZ5_jrAJy93ilRfnGIgVUmiBvJBu2XqI">here</a></li>
  <li>📫 I can be reached {here}</li>
  <li>⚡ Fun fact: HUGE Denver Nuggets Fan</li>
