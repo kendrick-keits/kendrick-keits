@@ -3,7 +3,7 @@
 <img align="right" width="350" height="350" src="https://www.hugp.com/research/assets/img/gif/pc.gif">
 <ul>
  <li>💻 My projects are available {here}</li>
- <li>📄 My my resume can be found {here}</li>
+ <li>📄 My my resume can be found [here](https://media-exp1.licdn.com/dms/document/C4E2DAQFu54J095FJlQ/profile-treasury-document-pdf-analyzed/0/1615780076440?e=1615867200&v=beta&t=IjoqG2qmaUoqZ5_jrAJy93ilRfnGIgVUmiBvJBu2XqI) "CV/Resume")</li>
  <li>📫 I can be reached {here}</li>
  <li>⚡ Fun fact: HUGE Denver Nuggets Fan</li>
 </ul>
