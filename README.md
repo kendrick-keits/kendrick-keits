@@ -5,7 +5,7 @@
  <li>💻 My projects are available  <a href="https://kendrick4theworld.webflow.io">here</a></li>
  <li>📄 My my resume can be found <a href="https://media-exp1.licdn.com/dms/document/C4E2DAQFu54J095FJlQ/profile-treasury-document-pdf-analyzed/0/1615780076440?e=1615867200&v=beta&t=IjoqG2qmaUoqZ5_jrAJy93ilRfnGIgVUmiBvJBu2XqI">here</a></li>
  <li>📫 I can be reached {here}</li>
- <li>⚡ Fun fact: HUGE Denver Nuggets Fan</li>
+
 </ul>
 <h2>My Stack</h2>
 <h3>Frontend</h3>
