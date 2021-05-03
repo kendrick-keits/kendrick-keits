@@ -1,5 +1,4 @@
 <h1>👋</h1>
-<p>I'm Kendrick, a <b>Software Engineer</b> from Colorado Springs :mountain: </p>
 <img align="right" width="350" height="350" src="https://www.hugp.com/research/assets/img/gif/pc.gif">
 <ul>
  <li>💻 My projects are available  <a href="https://kendrick4theworld.webflow.io">here</a></li>
